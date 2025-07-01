@@ -56,7 +56,7 @@ A powerful backend API for tracking cryptocurrency prices, portfolios, user acco
 ### 1. Clone the repository
 
     ```bash
-    git clone https://github.com/your-username/cryptotracker-backend.git
+    git clone https://github.com/ShivanHussain/cryptotracker-backend.git
     cd cryptotracker-backend
 
 ### 2 . install Dependencies
