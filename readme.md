@@ -166,7 +166,7 @@ Use [Postman](https://www.postman.com/) or [Thunder Client](https://www.thunderc
 **Shivan Hussain**  
 _MERN Developer | AI Enthusiast_
 
-GitHub: [@shivankhan](https://github.com/shivankhan)
+GitHub: [@shivanHussain](https://github.com/shivankhan)
 
 ---
 
